@@ -1,17 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/50dc0VUx)
-# CMPUT 291 Mini Project 1 - Winter 2024  
-Group member names and ccids (3-4 members)  
-  asshittu, Ahmed Shittu 
-  ejiang1, Eric Jiang  
-  mcherkas, Maxim Cherkasov  
-  aamare, Abdi Mare
 
-# Group work break-down strategy
-Ahmed: responsible for all login/signup functionalities, adding new users, user navigation in sign-in and sign-out logic
-Maxim: responsible for the system functionalities #4: Penalty, the review part of returned book.
-Abdi: responsible for #3 searching/borrowing a book
-Eric: responsible for viewing user profile and return book
-All: general checks and bug fixes all around, testing and updating code 
+# CMPUT 291 Mini Project 1 - Winter 2024  
+Group member name:
+Ahmed Shittu 
+Eric Jiang  
+Maxim Cherkasov  
+Abdi Mare
 
 # Code execution guide 
 To run the code, use <python> <script.py> <./database.db> where python is your python edition (code was made with python 3.11), script.py is our code, and database.db is the database being used, running it would look like (for example): "python3.11 backup3.py ./project1.db"
