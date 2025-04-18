@@ -1,10 +1,6 @@
 
 # CMPUT 291 Mini Project 1 - Winter 2024  
-Group member name:
-Ahmed Shittu 
-Eric Jiang  
-Maxim Cherkasov  
-Abdi Mare
+Group member names: Ahmed Shittu, Eric Jiang, Maxim Cherkasov, Abdi Mare
 
 # Code execution guide 
 To run the code, use <python> <script.py> <./database.db> where python is your python edition (code was made with python 3.11), script.py is our code, and database.db is the database being used, running it would look like (for example): "python3.11 backup3.py ./project1.db"
